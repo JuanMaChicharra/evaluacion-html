@@ -60,10 +60,12 @@ section {
   background-color: #ff5722;
   color: #ffffff;
   padding: 10px;
+  
 }
 
 .card-body {
   padding: 20px;
+  
 }
 
 button {
@@ -151,6 +153,7 @@ input[type="text"] {
   margin: 0 10px;
   border-bottom: 2px solid transparent;
   transition: border-color 0.3s, color 0.3s;
+  
 }
 
 .productos-nav {
@@ -257,9 +260,14 @@ h2 {
 #inicio-section{
   text-align: center;
   padding: 5px;
+
 }
 
 #principales-productos{
+  align-content: center;
+  display: flex;
   align-items: center;
+  flex-direction: row;
   justify-content: center;
+  justify-items: center;
 }
