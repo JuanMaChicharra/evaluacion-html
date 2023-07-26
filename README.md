@@ -1,5 +1,5 @@
 # Guajalotas-evaluacion
-Imagenes de evidencia creacion subida de archivos a repositorio git hub
+Imagenes de evidencia creacion subida de archivos a repositorio git hub b
 
 ![image](https://github.com/JuanMaChicharra/Guajalotas-evaluacion/assets/127440678/862fa068-93ef-45cd-9f67-690c508f3fb2)
 
